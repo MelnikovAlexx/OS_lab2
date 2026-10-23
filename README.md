@@ -16,7 +16,7 @@
 gcc -Wall -Wextra -pthread naive_threads.c -o naive_threads
 ```
 
-#№ Запуск программы
+## Запуск программы
 
 Синтаксис командной строки:
 
